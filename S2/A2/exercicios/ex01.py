@@ -1,4 +1,4 @@
-""" solicite ao usuario 3 notas e apresente o resultado da édia aritmética """
+""" ex01 - Média Aritmética Simples"""
 
 nota1 = input('Digite a primeira nota: ')
 nota2 = input('Digite a segunda nota: ')
