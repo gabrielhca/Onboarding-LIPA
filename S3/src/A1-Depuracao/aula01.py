@@ -1,4 +1,4 @@
-""" Aula 01 - debug pdb"""
+""" Aula 01 - debugging"""
 
 
 def somar(n1, n2, n3):
