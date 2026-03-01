@@ -1,4 +1,4 @@
-""" Aula 05 - Subplots com Matplotlib """
+""" Aula 06 - Subplots com Matplotlib """
 
 import matplotlib.pyplot as plt
 import numpy as np

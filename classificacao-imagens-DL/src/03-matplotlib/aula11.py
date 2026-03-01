@@ -1,4 +1,4 @@
-""" Aula 10 - Identificando com linhas paralelas e marcadores """
+""" Aula 11 - Identificando com linhas paralelas e marcadores """
 
 from matplotlib import pyplot as plt
 import numpy as np

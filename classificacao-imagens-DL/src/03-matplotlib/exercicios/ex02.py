@@ -1,3 +1,5 @@
+""" Exercicio 02 - Análise de Métricas de Treinamento """
+
 import pandas as pd
 from matplotlib import pyplot as plt
 

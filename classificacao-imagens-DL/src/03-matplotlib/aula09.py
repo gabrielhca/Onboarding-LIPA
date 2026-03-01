@@ -1,4 +1,4 @@
-""" Aula 03 - Diferentes estilos de gráficos com Matplotlib """""" Aula 08 - Customiizando as escalas dos eixos com Matplotlib """
+""" Aula 09 - Diferentes estilos de gráficos com Matplotlib """
 
 import matplotlib.pyplot as plt
 import numpy as np

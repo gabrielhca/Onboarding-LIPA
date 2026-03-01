@@ -1,8 +1,10 @@
+""" Exercicio 01 - Análise de Resultados de Classificação """
+
 import pandas as pd
 
 # Carregando o dataset
 df = pd.read_csv(
-    "./classificacao-imagens-DL/src/02-pandas/exercicios/classification_results_trial_0001.csv")
+    "./classificacao-imagens-DL/src/02-pandas/exercicios/data/classification_results_trial_0001.csv")
 
 # 1 - Quantas imagens são “benign” e “malign” em real_class?
 # value_counts() retorna a contagem de cada valor único na coluna "real_class"
